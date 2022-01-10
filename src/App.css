@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+button{
+  font-family: Montserrat;
+  background-color: rgb(2, 0, 92);
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  cursor: pointer;
+  border : none;
+
+}
+input{
+  font-family: Montserrat;
+  padding : 10px;  
+  border: 1px solid rgb(173, 173, 173) ;
+}
